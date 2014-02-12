@@ -1,4 +1,5 @@
 # OWIN Components Registry
+In order to add or update components listed on this page, please edit the [readme.markdown file](https://github.com/owin-middleware/Registry/blob/master/readme.markdown) using GitHub's browser-based editor and submit the proposed changes. 
 
 ## Middleware
 * [Microsoft.Owin.Security.OAuth](http://www.nuget.org/packages/Microsoft.Owin.Security.OAuth/) - Middleware that enables an application to support any standard OAuth 2.0 authentication workflow.
