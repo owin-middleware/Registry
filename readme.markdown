@@ -1,5 +1,6 @@
-# OWIN Middleware Registry
+# OWIN Components Registry
 
+## Middleware
 * [Microsoft.Owin.Security.OAuth](http://www.nuget.org/packages/Microsoft.Owin.Security.OAuth/) - Middleware that enables an application to support any standard OAuth 2.0 authentication workflow.
 * [Microsoft.Owin.Security.Cookies](http://www.nuget.org/packages/Microsoft.Owin.Security.Cookies/) - Middleware that enables an application to use cookie based authentication, similar to ASP.NET's forms authentication.
 * [Microsoft.Owin.Security.Google](http://www.nuget.org/packages/Microsoft.Owin.Security.Google/) - Middleware to support Google's OpenId and OAuth 2.0 authentication workflows.
