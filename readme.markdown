@@ -11,3 +11,17 @@
 * [Microsoft.Owin.Security.Jwt](http://www.nuget.org/packages/Microsoft.Owin.Security.Jwt/) - Middleware that enables an application to protect and validate JSON Web Tokens.
 * [Microsoft.Owin.StaticFiles](http://www.nuget.org/packages/Microsoft.Owin.StaticFiles/) - Middleware that handle requests for file system resources including files and directories.
 * [Microsoft.Owin.Security.ActiveDirectory](http://www.nuget.org/packages/Microsoft.Owin.Security.ActiveDirectory/) - Middleware that enables an application to use Microsoft's technology for authentication.
+
+## Servers and Hosts
+* [Nowin](https://github.com/Bobris/Nowin) - Owin Web Server in pure .NET
+* [Microsoft.Owin.Host.SystemWeb](http://www.nuget.org/packages/Microsoft.Owin.Host.SystemWeb/) - OWIN server that enables OWIN-based applications to run on IIS using the ASP.NET request pipeline.
+* [Microsoft.Owin.Host.HttpListener](http://www.nuget.org/packages/Microsoft.Owin.Host.HttpListener/) - OWIN server built on the .NET Framework's HttpListener class. Currently the default server used for self-hosting.
+* [Microsoft.Owin.Host.IIS](http://www.nuget.org/packages/Microsoft.Owin.Host.IIS/) - Enables running an OWIN pipeline directly on top of IIS without going through the ASP.NET pipeline.
+
+## Frameworks
+* [ASP.NET Web API](http://www.asp.net/web-api) - A framework for building HTTP-based APIs
+* [ASP.NET SignalR](http://www.asp.net/signalr) - A framework for building bi-directional, real-time Web functionality
+* [Nancy](http://nancyfx.org) - A lightweight framework for building Web applications
+* [FubuMVC](http://mvc.fubu-project.org) - A “Front Controller” pattern-style MVC framework designed for use in web applications built on ASP.NET
+* [Simple.Web](https://github.com/markrendle/Simple.Web) - A lightweight, object-oriented (Model-View-Handler) framework for modern web development in .NET
+* [duovia-http](https://github.com/duovia/duovia-http) - A lightweight OWIN-based services library
