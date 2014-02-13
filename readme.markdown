@@ -12,6 +12,10 @@ In order to add or update components listed on this page, please edit the [readm
 * [Microsoft.Owin.Security.Twitter](http://www.nuget.org/packages/Microsoft.Owin.Security.Twitter/) - Twitter's OAuth 2.0 authentication workflow.
 * [Microsoft.Owin.Security.Jwt](http://www.nuget.org/packages/Microsoft.Owin.Security.Jwt/) - APIs to protect and validate JSON Web Tokens.
 * [Microsoft.Owin.Security.ActiveDirectory](http://www.nuget.org/packages/Microsoft.Owin.Security.ActiveDirectory/) - ActiveDirectory based authentication.
+* [Thinktecture.IdentityModel.Owin.BasicAuthentication] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.BasicAuthentication/) - HTTP Basic Authentication
+* [Thinktecture.IdentityModel.Owin.ClaimsTransformation] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.ClaimsTransformation/) - Claims transformation
+* [Thinktecture.IdentityModel.Owin.ClientCertificates] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.ClientCertificates/) - X.509 client certificate authentication
+* [Thinktecture.IdentityModel.Owin.RequireSsl] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.RequireSsl/) - Require SSL and client certificates
 
 ### Other
 * [Microsoft.Owin.Diagnostics](http://www.nuget.org/packages/Microsoft.Owin.Diagnostics/) - An error page and welcome page to assist in developing OWIN-based applications.
