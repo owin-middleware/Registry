@@ -4,6 +4,7 @@ In order to add or update components listed on this page, please edit the [readm
 ## Middleware
 
 ### Security
+* [Microsoft.Owin.Security](http://www.nuget.org/packages/Microsoft.Owin.Security/) - Base types for authentication middleware.
 * [Microsoft.Owin.Security.OAuth](http://www.nuget.org/packages/Microsoft.Owin.Security.OAuth/) - A standard OAuth 2.0 authentication workflow.
 * [Microsoft.Owin.Security.Cookies](http://www.nuget.org/packages/Microsoft.Owin.Security.Cookies/) - Cookie or forms based authentication.
 * [Microsoft.Owin.Security.Google](http://www.nuget.org/packages/Microsoft.Owin.Security.Google/) - Google's OpenId and OAuth 2.0 authentication workflows.
@@ -20,7 +21,8 @@ In order to add or update components listed on this page, please edit the [readm
 ### Other
 * [Microsoft.Owin.Diagnostics](http://www.nuget.org/packages/Microsoft.Owin.Diagnostics/) - An error page and welcome page to assist in developing OWIN-based applications.
 * [Microsoft.Owin.StaticFiles](http://www.nuget.org/packages/Microsoft.Owin.StaticFiles/) - Handle requests for file based resources such as files and directories.
-
+* [Microsoft.Owin.Cors](http://www.nuget.org/packages/Microsoft.Owin.Cors/) - Handles Cross Origin Resource Sharing requests.
+ 
 ## Servers and Hosts
 * [Microsoft.Owin.Host.SystemWeb](http://www.nuget.org/packages/Microsoft.Owin.Host.SystemWeb/) - Enables OWIN-based applications to run on IIS in the ASP.NET request pipeline.
 * [Microsoft.Owin.Host.IIS](http://www.nuget.org/packages/Microsoft.Owin.Host.IIS/) - Enables running an OWIN pipeline directly on top of IIS without ASP.NET.
