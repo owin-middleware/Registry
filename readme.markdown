@@ -18,6 +18,9 @@ In order to add or update components listed on this page, please edit the [readm
 * [Thinktecture.IdentityModel.Owin.ClientCertificates] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.ClientCertificates/) - X.509 client certificate authentication
 * [Thinktecture.IdentityModel.Owin.RequireSsl] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.RequireSsl/) - Require SSL and client certificates
 
+### Routing
+* [Superscribe.Owin](http://superscribe.org/) - Routing as middleware
+
 ### Other
 * [Microsoft.Owin.Diagnostics](http://www.nuget.org/packages/Microsoft.Owin.Diagnostics/) - An error page and welcome page to assist in developing OWIN-based applications.
 * [Microsoft.Owin.StaticFiles](http://www.nuget.org/packages/Microsoft.Owin.StaticFiles/) - Handle requests for file based resources such as files and directories.
