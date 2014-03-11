@@ -17,7 +17,9 @@ In order to add or update components listed on this page, please edit the [readm
 * [Thinktecture.IdentityModel.Owin.ClaimsTransformation] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.ClaimsTransformation/) - Claims transformation
 * [Thinktecture.IdentityModel.Owin.ClientCertificates] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.ClientCertificates/) - X.509 client certificate authentication
 * [Thinktecture.IdentityModel.Owin.RequireSsl] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.RequireSsl/) - Require SSL and client certificates
+* [Thinktecture.IdentityModel.Owin.ScopeValidation] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Owin.ScopeValidation/) - Scope-based token validation for OAuth2 and OpenID Connect
 * [Thinktecture.IdentityModel.Hawk] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Hawk/) - Implementation of the Hawk authentication scheme
+
 
 ### Routing
 * [Superscribe.Owin](http://superscribe.org/) - Routing as middleware
