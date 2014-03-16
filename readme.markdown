@@ -28,7 +28,9 @@ In order to add or update components listed on this page, please edit the [readm
 * [Microsoft.Owin.Diagnostics](http://www.nuget.org/packages/Microsoft.Owin.Diagnostics/) - An error page and welcome page to assist in developing OWIN-based applications.
 * [Microsoft.Owin.StaticFiles](http://www.nuget.org/packages/Microsoft.Owin.StaticFiles/) - Handle requests for file based resources such as files and directories.
 * [Microsoft.Owin.Cors](http://www.nuget.org/packages/Microsoft.Owin.Cors/) - Handles Cross Origin Resource Sharing requests.
-* [Owin.RequiresHttps](https://www.nuget.org/packages/Owin.RequiresHttps/]) - Determines if requests are HTTPS and provides options for routing if not or 401 response.
+* [Owin.Limits](http://www.nuget.org/packages/Owin.Limits/) - Apply limits (MaxBandwidth, MaxConcurrentRequests, ConnectionTimeout) to an OWIN pipeline.
+* [Owin.RequiresHttps](https://www.nuget.org/packages/Owin.RequiresHttps/) - Determines if requests are HTTPS and provides options for routing if not or 401 response.
+* [Owin.SiteMapping](http://www.nuget.org/packages/Owin.SiteMapping/) - Partition of an OWIN application by host header and port number.
 * [DotNetDoodle.Owin.Dependencies](https://github.com/DotNetDoodle/DotNetDoodle.Owin.Dependencies) - An IoC container adapter into OWIN pipeline
 
 ## Servers and Hosts
