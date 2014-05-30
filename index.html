@@ -1,33 +1,43 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-
     <title>OWIN Components Registry by owin-middleware</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
-
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/owin-middleware/Registry">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/owin-middleware/Registry/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/owin-middleware/Registry/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
 
-    <header>
-      <div class="container">
-        <h1>OWIN Components Registry</h1>
-        <h2>A way to find OWIN-compatible components</h2>
+    <div class="wrapper">
 
-        <section id="downloads">
-          <a href="https://github.com/owin-middleware/Registry/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/owin-middleware/Registry/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/owin-middleware/Registry" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+      <section>
+        <div id="title">
+          <h1>OWIN Components Registry</h1>
+          <p>A way to find OWIN-compatible components</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/owin-middleware">owin-middleware</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
 
-    <div class="container">
-      <section id="main_content">
         <p>In order to add or update components listed on this page, please edit the <a href="https://github.com/owin-middleware/Registry/blob/master/readme.markdown">readme.markdown file</a> using GitHub's browser-based editor and submit the proposed changes. </p>
 
 <h2>
@@ -69,6 +79,8 @@
 <a href="http://www.nuget.org/packages/Thinktecture.IdentityModel.Hawk/">Thinktecture.IdentityModel.Hawk</a> - Implementation of the Hawk authentication scheme</li>
 <li>
 <a href="https://www.nuget.org/packages/Owin.StatelessAuth/">Owin.StatelessAuth</a> - An OWIN middleware component to authorize requests using a token in the Authorization request header</li>
+<li>
+<a href="https://www.nuget.org/packages/NWebsec.Owin/">NWebsec.Owin</a> - HTTP security headers</li>
 </ul><h3>
 <a name="routing" class="anchor" href="#routing"><span class="octicon octicon-link"></span></a>Routing</h3>
 
@@ -109,6 +121,8 @@
 <a href="http://www.nuget.org/packages/Microsoft.Owin.Hosting/">Microsoft.Owin.Hosting</a> - APIs to load and run an OWIN pipeline and server in self-host applications.</li>
 <li>
 <a href="http://www.nuget.org/packages/Microsoft.Owin.Testing/">Microsoft.Owin.Testing</a> - APIs to load and run an OWIN pipeline in memory for testing purposes.</li>
+<li>
+<a href="https://github.com/markrendle/Flux/">Flux</a> - A lightweight OWIN web server for .NET and Mono.</li>
 </ul><h2>
 <a name="frameworks" class="anchor" href="#frameworks"><span class="octicon octicon-link"></span></a>Frameworks</h2>
 
@@ -129,8 +143,9 @@
 <a href="http://www.nuget.org/packages/Microsoft.Owin/">Microsoft.Owin</a> - APIs to help implement OWIN middleware and construct pipelines.</li>
 </ul>
       </section>
-    </div>
 
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
