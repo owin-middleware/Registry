@@ -1,4 +1,4 @@
-# OWIN Components Registry
+﻿# OWIN Components Registry
 In order to add or update components listed on this page, please edit the [readme.markdown file](https://github.com/owin-middleware/Registry/blob/master/readme.markdown) using GitHub's browser-based editor and submit the proposed changes. 
 
 ## Middleware
@@ -30,6 +30,7 @@ In order to add or update components listed on this page, please edit the [readm
 * [Nowin](https://github.com/Bobris/Nowin) - Owin Web Server in pure .NET used for self-hosting.
 * [Microsoft.Owin.Hosting](http://www.nuget.org/packages/Microsoft.Owin.Hosting/) - APIs to load and run an OWIN pipeline and server in self-host applications.
 * [Microsoft.Owin.Testing](http://www.nuget.org/packages/Microsoft.Owin.Testing/) - APIs to load and run an OWIN pipeline in memory for testing purposes.
+* [Flux](https://github.com/markrendle/Flux/) - A lightweight OWIN web server for .NET and Mono.
 
 ## Frameworks
 * [ASP.NET Web API](http://www.asp.net/web-api) - A framework for building HTTP-based APIs
