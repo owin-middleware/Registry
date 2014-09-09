@@ -1,4 +1,4 @@
-﻿# OWIN Components Registry
+# OWIN Components Registry
 In order to add or update components listed on this page, please edit the [readme.markdown file](https://github.com/owin-middleware/Registry/blob/master/readme.markdown) using GitHub's browser-based editor and submit the proposed changes. 
 
 ## Middleware
@@ -34,7 +34,8 @@ In order to add or update components listed on this page, please edit the [readm
 * [Owin.RequiresHttps](https://www.nuget.org/packages/Owin.RequiresHttps/) - Determines if requests are HTTPS and provides options for routing if not or 401 response.
 * [Owin.SiteMapping](http://www.nuget.org/packages/Owin.SiteMapping/) - Partition of an OWIN application by host header and port number.
 * [DotNetDoodle.Owin.Dependencies](https://github.com/DotNetDoodle/DotNetDoodle.Owin.Dependencies) - An IoC container adapter into OWIN pipeline
-
+* [Fix](https://github.com/markrendle/fix/) - An ultra-lightweight web glue for .NET, written in C#.
+ 
 ## Servers and Hosts
 * [Microsoft.Owin.Host.SystemWeb](http://www.nuget.org/packages/Microsoft.Owin.Host.SystemWeb/) - Enables OWIN-based applications to run on IIS in the ASP.NET request pipeline.
 * [Microsoft.Owin.Host.IIS](http://www.nuget.org/packages/Microsoft.Owin.Host.IIS/) - Enables running an OWIN pipeline directly on top of IIS without ASP.NET.
