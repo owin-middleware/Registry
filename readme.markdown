@@ -24,6 +24,7 @@ In order to add or update components listed on this page, please edit the [readm
 
 ### Routing
 * [Superscribe.Owin](http://superscribe.org/) - Routing as middleware
+* [Owin.Routing](http://nuget.org/packages/Owin.Routing) - Simple routing for OWIN applications
 
 ### Other
 * [Microsoft.Owin.Diagnostics](http://www.nuget.org/packages/Microsoft.Owin.Diagnostics/) - An error page and welcome page to assist in developing OWIN-based applications.
