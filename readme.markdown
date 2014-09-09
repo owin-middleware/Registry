@@ -52,3 +52,4 @@ In order to add or update components listed on this page, please edit the [readm
 * [Simple.Web](https://github.com/markrendle/Simple.Web) - A lightweight, object-oriented (Model-View-Handler) framework for modern web development in .NET
 * [duovia-http](https://github.com/duovia/duovia-http) - A lightweight OWIN-based services library
 * [Microsoft.Owin](http://www.nuget.org/packages/Microsoft.Owin/) - APIs to help implement OWIN middleware and construct pipelines.
+* [Hangfire](http://hangfire.io) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
