@@ -21,6 +21,8 @@ In order to add or update components listed on this page, please edit the [readm
 * [Thinktecture.IdentityModel.Hawk] (http://www.nuget.org/packages/Thinktecture.IdentityModel.Hawk/) - Implementation of the Hawk authentication scheme
 * [Owin.StatelessAuth] (https://www.nuget.org/packages/Owin.StatelessAuth/) - An OWIN middleware component to authorize requests using a token in the Authorization request header
 * [NWebsec.Owin] (https://www.nuget.org/packages/NWebsec.Owin/) - HTTP security headers
+* [SecurityHeadersMiddleware] (https://www.nuget.org/packages/SecurityHeadersMiddleware/) - HTTP security headers
+    * [SecurityHeadersMiddleware.AppBuilder] (https://www.nuget.org/packages/SecurityHeadersMiddleware.AppBuilder/) provides an easier API for registration.
 
 ### Routing
 * [Superscribe.Owin](http://superscribe.org/) - Routing as middleware
